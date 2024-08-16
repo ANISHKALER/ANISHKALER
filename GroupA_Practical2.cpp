@@ -77,7 +77,7 @@ class StudData {
 
     void getStudData() {
         cout << "Enter Contact Address: ";
-        cin.get();            // Clear the input buffer
+        cin.get();            //  input buffer
         getline(cin, caddress);
         cout << "Enter Telephone Number: ";
         cin >> *telno;
