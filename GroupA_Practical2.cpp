@@ -99,12 +99,12 @@ inline void Student::getData(StudData* st) {
     cout << "Enter Roll Number: ";
     cin >> roll_no;
     cout << "Enter Class: ";
-    cin.get();                // Clear the input buffer
+    cin.get();                // input buffer
     getline(cin, cls);
     cout << "Enter Division: ";
     cin >> division;
     cout << "Enter Date of Birth: ";
-    cin.get();                // Clear the input buffer
+    cin.get();                // input buffer
     getline(cin, dob);
     cout << "Enter Blood Group: ";
     cin >> bloodgroup;
@@ -138,7 +138,7 @@ int main() {
         n++;
         cout << "Do you want to add another student (y/n): ";
         cin >> ch;
-        cin.get();                  // Clear the input buffer
+        cin.get();                  // input buffer
     } while (ch == 'y' || ch == 'Y');
 
     for (int i = 0; i < n; i++) {
