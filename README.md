@@ -1,4 +1,4 @@
-# Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> I'm Anish Kaler !
+# Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> I'm Anish Kaler!
 ## Welcome to my Github Profile 
 
 ### About me 
@@ -24,55 +24,37 @@
 
 ---
 
-
-
-### ⚙ Github Analytics
+### ⚙ Github Highlights
 
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ANISHKALER&theme=nord_dark">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ANISHKALER&theme=nord_dark" >
-<img src="https://github-profile-trophy.vercel.app/?username=ANISHKALER&theme=darkhub">
-<img src="https://github-readme-stats.vercel.app/api?username=ANISHKALER&theme=blue-green" width="400">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANISHKALER&theme=chartreuse-dark&layout=compact" width="335">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ANISHKALER&theme=nord_dark">
+</p>
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=ANISHKALER&theme=darkhub&row=1&column=6">
 </p>
 
 ---
-### ⚙ Commits Streak 
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ANISHKALER&theme=radical">
-<img src="https://activity-graph.herokuapp.com/graph?username=ANISHKALER&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true">
-</p>
-
 
 ___
 
-### Coding Stats
-<!--START_SECTION:waka-->
-
-```txt
-### ⏳ Weekly Coding Time
-<!-- Adapted from WakaTime stats -->
-```text
-Total Time: 12 hrs 37 mins
-
-JavaScript     5 hrs 22 mins   ██████████████▓░░░░░░░░░░   56.3% 
-Python         2 hrs 45 mins   ███████▒░░░░░░░░░░░░░░░░░   23.1%
-C++            1 hr 10 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   09.8%
-C#             45 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   06.3%
-Unity          35 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   04.5%
-____
-____
-
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
-### 🎧 Now Playing 
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31xncutsjftde6tov3a45cja7t3q&cover_image=true&theme=novatorem)](https://open.spotify.com/user/31xncutsjftde6tov3a45cja7t3q)
+### Spotify Playing 🎧
+[![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/22mz5h8q9x3yc1lpd6sr4ov7n?si=2eb0165bdaa14cd2)
+
 
 ----
 
-![Profile views](https://profile-counter.glitch.me/ANISHKALER/count.svg)
 
 
->  check out my repos 👇
-```
+> Check out my repos 👇
+
+---
+
+### 👀 Profile Views 
+
+<p align="center"> 
+  <img src="https://profile-counter.glitch.me/ANISHKALER/count.svg" alt="visitors" /> 
+</p>
