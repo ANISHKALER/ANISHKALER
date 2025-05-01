@@ -54,7 +54,7 @@ ___
 ---
 
 ### 👀 Profile Views 
-
-<p align="center"> 
-  <img src="https://profile-counter.glitch.me/ANISHKALER/count.svg" alt="visitors" /> 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=anishkaler&label=PROFILE+VIEWS&color=blue&style=for-the-badge" alt="anishkaler" width="250"/>
 </p>
+
