@@ -9,7 +9,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anishkaler&label=Profile%20views&color=0e75b6&style=flat" alt="anishkaler" /> </p>
 
-<h3 align="left">Connect with me:</h3>
+___
+
 <p align="left">
 </p>
 
