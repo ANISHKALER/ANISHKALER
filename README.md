@@ -36,20 +36,41 @@
 </p>
 
 ---
+### ⚙ Commits Streak 
 
-___
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sagar-sharma-7&theme=radical">
+<img src="https://activity-graph.herokuapp.com/graph?username=Sagar-Sharma-7&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true">
+</p>
+
+
+---
+
+### ⌨️ Coding Stats
+
+<!--START_SECTION:waka-->
+
+```txt
+Total Time: 4 hrs 25 mins
+
+Unity         1 hr 20 mins    █████████░░░░░░░░░░░░░░░░   30.20 %
+Python        50 mins         █████▒░░░░░░░░░░░░░░░░░░░   18.80 %
+Java          40 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.10 %
+C++           35 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.20 %
+CSS           30 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.40 %
+HTML          20 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.60 %
+C#            10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.70 %
+
+```
+
+<!--END_SECTION:waka-->
+____
+
 
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
 ### Spotify Playing 🎧
 [![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/31k6lnw6zktpoxnyxw2mvr0kt?si=2eb0165bdaa14cd2)
-
-
-----
-
-
-
-> Check out my repos 👇
 
 ---
 
@@ -57,4 +78,8 @@ ___
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=anishkaler&label=PROFILE+VIEWS&color=blue&style=for-the-badge" alt="anishkaler" width="250"/>
 </p>
+
+---
+
+> Check out my repos 👇
 
