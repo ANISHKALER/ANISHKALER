@@ -27,9 +27,17 @@ ___
 
 ### ⚙ Github Highlights
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ANISHKALER&theme=nord_dark">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ANISHKALER&theme=nord_dark">
+
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ANISHKALER&theme=nord_dark" />
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ANISHKALER&theme=nord_dark" />
+    </td>
+  </tr>
+</table>
 </p>
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=ANISHKALER&theme=darkhub&row=1&column=6">
